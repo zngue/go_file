@@ -1,0 +1,4 @@
+//enum("primaryKey;","uniqueIndex;","index;","")
+//enum("tinyint(1)","smailint(5)","int(10)","bigint(20)","float(5,2)","decimal(5,2)","varchar(200)","timestamp")
+
+//enum("","0")

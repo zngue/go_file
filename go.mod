@@ -10,7 +10,6 @@ require (
 	github.com/spf13/viper v1.9.0
 	github.com/xinliangnote/go-util v0.0.0-20200323134426-527984dc34bf
 	github.com/zngue/go_helper v0.0.0-20210922022603-c5371ca7e36a
-	gorm.io/gorm v1.21.3
 )
 
 require (
@@ -46,4 +45,5 @@ require (
 	gopkg.in/ini.v1 v1.63.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gorm.io/driver/mysql v1.0.5 // indirect
+	gorm.io/gorm v1.21.3 // indirect
 )
